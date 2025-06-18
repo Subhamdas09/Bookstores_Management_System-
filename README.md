@@ -1,5 +1,4 @@
-
-📚 Online Bookstore Management System
+--📚 Online Bookstore Management System--
 This project is a SQL-based data analysis solution designed for managing an online bookstore. It demonstrates how to work with relational databases involving customers, books, and orders to extract actionable business insights.
 
 📁 Datasets Used
