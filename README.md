@@ -9,27 +9,26 @@ Orders.csv – Includes order transactions, linking customers with purchased boo
 
 🔧 Tools & Technologies
 SQL – For querying and manipulating the data.
-I am using PostgreSQL
+I am using PostgreSQL.
 
 📊 Project Objectives
 Create and normalize database tables from raw CSV data
-Perform data cleaning and validation
+Perform data cleaning and validation.
 
 Write optimized SQL queries to:
-Track total orders and revenue
-Find bestselling books
-Analyze customer behavior
-Generate monthly sales reports
-Build dashboards (Power BI optional) to visualize trends
+Track total orders and revenue.
+Find bestselling books.
+Analyze customer behavior.
+Generate monthly sales reports.
 
 💡 Key Insights
-Most frequently ordered books
-Top customers by spending
-Genre-wise distribution of sales
-Monthly/quarterly revenue growth
+Most frequently ordered books.
+Top customers by spending.
+Genre-wise distribution of sales.
+Monthly/quarterly revenue growth.
 
 🧠 What I Learned
 Designing relational database schemas
 Writing efficient SQL JOINs and subqueries
 Extracting business metrics from structured data
-Creating visual reports for business users
+Creating visual reports for business users.
