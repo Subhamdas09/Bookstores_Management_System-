@@ -1,4 +1,4 @@
-#📚 Online Bookstore Management System
+📚 #Online Bookstore Management System
 
 This project is a SQL-based data analysis solution designed for managing an online bookstore. It demonstrates how to work with relational databases involving customers, books, and orders to extract actionable business insights.
 
@@ -10,8 +10,7 @@ Orders.csv – Includes order transactions, linking customers with purchased boo
 
 🔧 -Tools & Technologies:
 
-SQL – For querying and manipulating the data.
-I am using PostgreSQL.
+SQL – I am using PostgreSQL For querying and manipulating the data.
 
 📊 -Project Objectives:
 
